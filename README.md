@@ -1,36 +1,15 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Talk to yourself from the future or the past! Built with ElevenLabs (Scribe v2 Realtime/Voice Cloning/Agents), Bolt UI, Clerk Auth, and a LOT of Claude Code, kept in check with CodeRabbit CLI.
 
-## Getting Started
+Demo Link: https://youtu.be/6t6FaptMyuI?si=K2LlZKJ3-1ywy_Zd
 
-First, run the development server:
+Live Link: https://futureself.akhil.bio
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+In high school, I used a website called FutureMe where you could send an email to yourself in the future. It was emotional and genuinely beneficial, just seeing how much I'd grown over the years.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+This takes that experience and makes it way more immersive. Instead of reading a message, you actually *talk* to your past self. The app clones your voice and uses your current goals, fears, and work as context. Then you schedule a call, and your past self calls you in the future. Imagine talking to yourself from when you were younger, or even as a kid. Your voice would sound so different. Your whole personality would be different.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+But if you're impatient, you can flip it: get a roleplay of your *future* self to call you right now, helping you work toward those same goals you wrote about.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Basically, you can literally travel through time in both directions.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+And this isn't just a gimmick. There's actually a lot of research from therapists and studies showing this kind of thing is genuinely beneficial. Connecting with your past self helps with self-compassion and processing where you've been. Connecting with your future self helps with motivation and long-term decision making. Both directions, uniquely useful.
